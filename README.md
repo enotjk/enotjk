@@ -1,4 +1,4 @@
-# Hi ! 🥖
+# Hi ! 👸
 
 My name is Danylo Miakota. I am a data analyst living near Kyiv, Ukrain. 
 
