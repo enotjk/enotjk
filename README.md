@@ -3,7 +3,7 @@
 My name is Danylo Miakota. I am a data analyst living near Kyiv, Ukrain. 
 
 
-## 🛠  Technologies and tools
+#### 🛠  Technologies and tools
 
 <a name="learning-now"></a>
 
