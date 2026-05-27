@@ -1,6 +1,6 @@
-# Bonjour ! 🥖
+# Hi ! 🥖
 
-My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
+My name is Danylo Miakota. I am a data analyst living near Kyiv, Ukrain. 
 
 
 ## 🛠  Technologies and tools
